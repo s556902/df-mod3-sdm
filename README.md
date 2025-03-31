@@ -46,7 +46,7 @@
 - `icacls <file/directory> /setowner <user>` - Sets the specified file/directories owner to the specified user
 - `icacls <file/directory> /remove <user>` - Removes the provided users permissions from the specified file/directory
 # Superior Bicyle Case
-https://s556902.github.io/df-mod3-sdm/autopsy-report/report.html
+[https://s556902.github.io/df-mod3-sdm/autopsy-report/report.html](https://s556902.github.io/df-mod3-sdm/autopsy-report/report.html)
 ## Description
 The shown autopsy report is a forensics image recovered from employee Denise Robinson of Superioer Bicycle. The image was copied from a Windows 8 machine. E-Mails, passwords, and other user data can be observed.
 ## Notable Files
